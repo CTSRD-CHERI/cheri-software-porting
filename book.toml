@@ -1,0 +1,10 @@
+[book]
+authors = ["Konrad Witaszczyk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CHERI Software Porting"
+
+[output.html]
+git-repository-url = "https://github.com/CTSRD-CHERI/cheri-software-porting"
+site-url = "/cheri-software-porting/"
